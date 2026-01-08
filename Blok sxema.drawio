@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="Page-1" id="Cb0NBpHHF3XfJuH7HinH">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-3" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Foydalanuvchi&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp;(Mijoz/Admin)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="164" x="332" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-5" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-7" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-8" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-10" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Foydalanuvchi boshqaruvi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="334" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-13" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bWmwpVqsLts1YhEDPQ_w-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Avtomobil moduli&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-15" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bWmwpVqsLts1YhEDPQ_w-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Xizmatlar moduli&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-12" edge="1" parent="1" source="bWmwpVqsLts1YhEDPQ_w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bWmwpVqsLts1YhEDPQ_w-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Buyurtma moduli&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="bWmwpVqsLts1YhEDPQ_w-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;To&#39;lovlar moduli&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="334" y="-640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
